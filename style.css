@@ -142,12 +142,12 @@ a {
 @media screen  and (max-width:700px){
     .show-links{
         margin-right: 10px;
-        width: 200px; 
+        width: 250px; 
       }
       /* .links{
         height: 40px;
       } */
       .links li a{
-          font-size: 40px;
+          font-size: 15px;
       }
 }
